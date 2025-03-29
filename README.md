@@ -76,6 +76,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Sivaram842">
+                    <img src="https://avatars.githubusercontent.com/u/170772966?v=4" width="100px;" alt="M Naveen"/>
+                    <br />
+                    <sub><b>P Sivaram</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/aaradhya466">
                     <img src="https://avatars.githubusercontent.com/u/149591897?v=4" width="100px;" alt="Aaradhya"/>
                     <br />
@@ -2511,6 +2518,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/107280248?v=4" width="100px;" alt="Manuomar"/>
                     <br />
                     <sub><b>Manu omar</b></sub>
+                </a> 
+            </td>
+        </tr>
+        <tr>
+             <td align="center">
+                <a href="https://github.com/aliasgarsogiawala">
+                    <img src="https://avatars.githubusercontent.com/u/180506602?v=4" width="100px;" alt="Manuomar"/>
+                    <br />
+                    <sub><b>Aliasgar Sogiawala</b></sub>
                 </a> 
             </td>
         </tr>
